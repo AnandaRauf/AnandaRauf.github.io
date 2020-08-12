@@ -1,13 +1,22 @@
 {
     "name": "covid_tracker",
+    
     "short_name": "covid_tracker",
-    "start_url": ".",
+
+    "start_url": "https://news.google.com/covid19/map?hl=en-ID&gl=ID&ceid=ID%3Aen",
+
     "display": "minimal-ui",
+
     "background_color": "#0175C2",
+
     "theme_color": "#0175C2",
+
     "description": "A new Flutter project.",
+
     "orientation": "portrait-primary",
+
     "prefer_related_applications": false,
+
     "icons": [
         {
             "src": "icons/Icon-192.png",
